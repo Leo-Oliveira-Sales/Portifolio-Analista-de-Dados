@@ -5,6 +5,10 @@
 Este projeto tem como objetivo analisar a evolução do **Pix** no Brasil entre 2020 e 2024, comparando-o a outros meios de pagamento (TED, Cheque e Boleto).  
 Foram aplicadas técnicas de **manipulação de dados com Pandas** e **visualização com Matplotlib**, resultando em insights sobre crescimento, participação relativa e sazonalidade do Pix.
 
+
+#### Os dados de Cartão de Credito foram extraidos de dados abertos do Banco Central através do link: https://www.bcb.gov.br/estatisticas/spbadendos?ano=2024
+* A planilha do Banco Central do Brasil normalmente vem em formato horizontal, por isso tivemos de tratar a tabela  e os dados, no repositório as tabelas ja estão no formato adequado para análise!
+
 ## 🎯 Objetivo do Projeto
 
 O objetivo deste projeto é:
