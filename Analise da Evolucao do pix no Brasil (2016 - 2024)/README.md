@@ -27,7 +27,7 @@ Explorar relações entre diferentes formas de pagamento
 
 >Banco Central do Brasil
 
-Dados sobre transações e valores movimentados.
+Dados de cartão de crédito sobre transações e valores movimentados.
 
 >https://www.bcb.gov.br/estatisticas/spbadendos?ano=2024
 
